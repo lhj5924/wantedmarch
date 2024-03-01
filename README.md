@@ -9,23 +9,17 @@ React, react-redux, SCSS 를 사용하여 입력, 삭제 기능을 구현한 TOD
 ## 폴더 구조
 
 /src
-|- /components
-|- /List
-|- |- todoList.js
-|- |- todoItems.js
-|- /store
-|- |- store.js
-|- |- todoReducer.js
-|- |- action.js
-|- /styles
-|- |- styles.css
-|- |- styles.css.map
-|- |- styles.scss
-|- App.js
-|- index.js
+ㄴ /components
+ㄴ /List
+ㄴ /store
+ㄴ /styles
+ㄴ App.js
+ㄴ index.js
 
 
 ## 과제 1 todo list 만들기
+
+![image](https://github.com/lhj5924/wantedmarch/assets/76608100/7a6d76e0-0888-4124-9652-cbe9aedb87ec)
 
 
 ## 과제 2
